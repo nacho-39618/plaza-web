@@ -162,10 +162,11 @@ a{
 }
 .video__multimeedia{
     padding: 1rem;
-    width: 100%;
+    width: 560;
+    height: 315;
     display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 }
 .niños{
@@ -231,6 +232,9 @@ a{
     .niños__p{
         width: 100%;
     }
+    
+        
+    
     
 }
 
