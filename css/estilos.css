@@ -132,6 +132,11 @@ a{
     align-items: center;
     display: flex;
     font-weight: bold;
+    overflow: hidden;
+}
+.DEPORTES__ESTILO:hover{
+    transform: scale(1.5);
+
 }
 .tituloh{
     width: 100%;
