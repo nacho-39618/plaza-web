@@ -1,0 +1,55 @@
+.niños{
+    width: 100%;
+    display: flex;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+
+}
+     .niños__img{
+         width: 50%;
+         display: flex;
+         flex-direction: row;
+         align-items: flex-end;
+}
+     .niños__p{
+         font-size: 1rem;
+         line-height: 1.5;
+         width: 50%;
+         padding: 2rem;
+         text-align: center; ;
+}
+.drone{
+    width: 100%;
+    padding: 0;
+}
+.DEPORTES{
+    width: 100%;
+    height: 100px;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap:2rem
+}
+
+     .DEPORTES__ESTILO{
+         background-color:#8AC2EB;
+         color: white;
+         width: 100%;
+         height: 80px;
+         border-radius: 1rem;
+         text-align: center;
+         justify-content:center;
+         align-items: center;
+         display: flex;
+         font-weight: bold;
+         overflow: hidden;
+}
+     .DEPORTES__ESTILO:hover{
+          transform: scale(1.5);
+
+}

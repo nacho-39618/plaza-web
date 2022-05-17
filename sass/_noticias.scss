@@ -1,0 +1,42 @@
+.video{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+     .video__titulo{
+      padding: 1rem;
+
+
+}
+     .video__multimeedia{
+       padding: 1rem;
+       width: 560;
+       height: 315;
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+       align-items: center;
+} 
+.VOTACION{
+    background-color: white;
+    border-radius: 10px;
+    border: solid;
+    border-color: #A50343;
+    padding: 16px;
+    width: 200px;
+    height: 230px;
+    margin: 0 auto;
+    display: block;
+}
+     .VOTACION__TITULO{
+         padding: 16px;
+         color: white;
+         background-color:#A50343;
+         border-radius: 10px;
+         top: 16px;
+         right: 16px;
+         width: 100%;
+
+} 
